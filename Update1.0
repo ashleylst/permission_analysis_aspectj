@@ -1,0 +1,3 @@
+main文件夹里是项目的源代码，现在使用的是“微信红包”
+main\java\xyz\monkeytong\hongbao\aspectj里的内容是所有Aspectj的代码
+第一次更新的功能为：检测方法执行时的权限使用
